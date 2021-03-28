@@ -1,32 +1,32 @@
 [
   {
-    "product name": "1",
-    "review title": "1",
-    "review rating": 5,
-    "review text": "Appreciated the snap together assembly, no tools required."
+    "product": "1",
+    "title": "1",
+    "rating": 5,
+    "text": "Appreciated the snap together assembly, no tools required."
   },
   {
-      "product name": "2",
-    "review title": "2",
-    "review rating": 5,
-    "review text": "For this low price you cannot be beat this product for its strong reliability, sturdiness, and adaptive qualities as well as its simple assembly feature."
+     "product": "2",
+    "title": "2",
+    "rating": 5,
+    "text": "For this low price you cannot be beat this product for its strong reliability, sturdiness, and adaptive qualities as well as its simple assembly feature."
     },
   {
-      "product name": "3",
-    "review title": "3",
-    "review rating": 5,
-    "review text": "This means that the extension assembly falls apart on a pretty regular basis, which is loud and annoying but not the end of the world."
+      "product": "3",
+    "title": "3",
+    "rating": 5,
+    "text": "This means that the extension assembly falls apart on a pretty regular basis, which is loud and annoying but not the end of the world."
     },
   {
-      "product name": "4",
-    "review title": "4",
-    "review rating": 5,
-    "review text": "I've learned to always check the whole hose and assembly for clogs before assuming that the bag needs to be replaced."
+      "product": "4",
+    "title": "4",
+    "rating": 5,
+    "text": "I've learned to always check the whole hose and assembly for clogs before assuming that the bag needs to be replaced."
     },
   {
-       "product name": "5",
-    "review title": "5",
-    "review rating": 5,
-    "review text": "I've learned to always check the whole hose and assembly for clogs before assuming that the bag needs to be replaced."
+       "product": "5",
+    "title": "5",
+    "rating": 5,
+    "text": "I've learned to always check the whole hose and assembly for clogs before assuming that the bag needs to be replaced."
     }
  ]
