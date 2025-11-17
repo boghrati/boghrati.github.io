@@ -1,0 +1,102 @@
+[
+  {
+    "Id": "1",
+    "post": "I feel empty",
+    "comment": "I hear you and I'm sorry"
+  },
+  {
+    "Id": "2",
+    "post": "I can’t sleep lately",
+    "comment": "That sounds really hard. Have you been feeling anxious?"
+  },
+  {
+    "Id": "3",
+    "post": "Everything feels pointless",
+    "comment": "I’m really sorry you feel that way. You’re not alone in this."
+  },
+  {
+    "Id": "4",
+    "post": "I miss how things used to be",
+    "comment": "It’s okay to grieve what’s changed. That’s a very human feeling."
+  },
+  {
+    "Id": "5",
+    "post": "I’m tired all the time",
+    "comment": "That sounds exhausting. Do you think stress might be a part of it?"
+  },
+  {
+    "Id": "6",
+    "post": "Nobody really understands me",
+    "comment": "Feeling unseen can be painful. I understand why that hurts."
+  },
+  {
+    "Id": "7",
+    "post": "I don’t want to get out of bed",
+    "comment": "That sounds heavy. Taking small steps today might help a bit."
+  },
+  {
+    "Id": "8",
+    "post": "I feel like a burden",
+    "comment": "You matter more than you realize. Your feelings are valid."
+  },
+  {
+    "Id": "9",
+    "post": "I’m losing motivation",
+    "comment": "That’s okay — motivation comes and goes. Be gentle with yourself."
+  },
+  {
+    "Id": "10",
+    "post": "I keep making mistakes",
+    "comment": "Everyone does. What matters is that you’re trying."
+  },
+  {
+    "Id": "11",
+    "post": "I wish I could disappear",
+    "comment": "I’m really sorry you feel that way. You deserve care and support."
+  },
+  {
+    "Id": "12",
+    "post": "I feel numb",
+    "comment": "That can be tough. Sometimes numbness is how our mind protects us."
+  },
+  {
+    "Id": "13",
+    "post": "I’m scared of the future",
+    "comment": "It’s normal to feel afraid. You don’t have to face it all at once."
+  },
+  {
+    "Id": "14",
+    "post": "I can’t focus anymore",
+    "comment": "That sounds frustrating. Maybe taking short breaks could help."
+  },
+  {
+    "Id": "15",
+    "post": "I feel worthless",
+    "comment": "I’m sorry you’re feeling that way. You still have worth and value."
+  },
+  {
+    "Id": "16",
+    "post": "I just want to be happy again",
+    "comment": "That’s a beautiful wish. Healing takes time, but it’s possible."
+  },
+  {
+    "Id": "17",
+    "post": "I keep pretending everything’s fine",
+    "comment": "That can be exhausting. You don’t always have to pretend."
+  },
+  {
+    "Id": "18",
+    "post": "I’m overwhelmed by everything",
+    "comment": "That sounds really tough. Try focusing on one small thing at a time."
+  },
+  {
+    "Id": "19",
+    "post": "I feel so alone",
+    "comment": "I’m sorry you feel that way. You deserve connection and understanding."
+  },
+  {
+    "Id": "20",
+    "post": "I wish I could start over",
+    "comment": "It’s okay to want that. You can always begin again, one step at a time."
+  }
+]
